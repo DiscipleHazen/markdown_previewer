@@ -6,7 +6,7 @@
 
 header {
     margin-top: 15px;
-    width: 90%; 
+    width: 100%; 
     height: 100px; 
     background-color: #343a40; 
     border-radius: 10px 10px 0px 0px; 
@@ -15,14 +15,14 @@ header {
 }
 
 #editor {
-  width: 90%;
+  width: 100%;
   height: 650px;
   display: block;
   padding: 10px;
 }
 
 #options {
-  width: 90%;
+  width: 100%;
   display: flex;
   justify-content: space-between;
   margin-top: 10px;
@@ -31,14 +31,14 @@ header {
 
 .preview-header{
   margin-top: 15px;
-  width: 90%; 
+  width: 100%; 
   height: 100px; 
   background-color: #343a40; 
   border-radius: 10px 10px 0px 0px; 
   margin-bottom: 0;
 }
 #preview {
-  width: 90%;
+  width: 100%;
   height: 650px;
   display: block;
   padding: 10px;
@@ -63,7 +63,7 @@ blockquote {
 
 @media (max-width: 600px) {
   header h1{
-    font-size: 1.3em;
+    font-size: 1.35em;
    
   }
 }
