@@ -22,7 +22,7 @@ header {
 }
 
 #options {
-  width: 80%;
+  width: 90%;
   display: flex;
   justify-content: space-between;
   margin-top: 10px;
@@ -62,7 +62,8 @@ blockquote {
 }
 
 @media (max-width: 600px) {
-  .preview-header{
-    margin-top: 15px;
+  header h1{
+    font-size: 1.3em;
+   
   }
 }
